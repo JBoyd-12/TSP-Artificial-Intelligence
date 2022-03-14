@@ -1,1 +1,4 @@
-
+Project 1: Travelling Salesperson Problem ‐ Brute Force
+  o Implement a method to generate all permutations of a set of numbers. 
+  o Use brute force to find the minimum cost solution to a Traveling Salesperson 
+    Problem. 
